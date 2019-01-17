@@ -50,6 +50,7 @@ please cut-and-paste the text from that email here._
 - Scenario: Documents
 - Assumptions:
   - The information on some sensitive documents should not be exposed to the public or unrelated individuals
+  - The workers and people who rightly have access to the documents are trustworthy and will not reveal it to others
 - Assets:
   - The confidentiality of the information on important documents
   - The privacy and safety of people whose information is on the documents
@@ -84,6 +85,7 @@ please cut-and-paste the text from that email here._
   - Block all wifi signals in the area of the room. Block cellular signals and other signals that may allow a listening device to transmit data outside the room. We can also place some audio jammers that can generate small noises inside the room, so that even if there is a listening device, it is likely to record only noises. 
     - cost: purchasing the delicate devices, or building them on our own to ensure confidentiality. The noise generating devices may harm the quality of the conversation.
     - benefit: reduces the probability of audio data being successfully transmitted, and reduces the probability of recording meaningful conversations
+    
     If we can ensure the safety and trustworthiness of the devices we use, the cost will mainly be monetary costs. There is no large-scale implementation or staffing issues, and it does reduce the probability of eavesdropping to some extent. It is hard to ensure that all signals that can be used for data transmission is blocked, but wifi and cellular network are likely the most common ones. In terms of cost vs. benefits, I think this countermeasure is justifiable.
 
 
