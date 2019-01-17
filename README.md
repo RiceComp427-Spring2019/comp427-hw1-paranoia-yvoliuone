@@ -86,6 +86,6 @@ please cut-and-paste the text from that email here._
     - cost: purchasing the delicate devices, or building them on our own to ensure confidentiality. The noise generating devices may harm the quality of the conversation.
     - benefit: reduces the probability of audio data being successfully transmitted, and reduces the probability of recording meaningful conversations
     
-    If we can ensure the safety and trustworthiness of the devices we use, the cost will mainly be monetary costs. There is no large-scale implementation or staffing issues, and it does reduce the probability of eavesdropping to some extent. It is hard to ensure that all signals that can be used for data transmission is blocked, but wifi and cellular network are likely the most common ones. In terms of cost vs. benefits, I think this countermeasure is justifiable.
+    If we can ensure the safety and trustworthiness of the devices we use, the cost will mainly be monetary costs (unless we choose to build the devices on our own, which is time-consuming and involves hiring trustworthy professionals). There is no large-scale implementation or staffing issues, and it does reduce the probability of eavesdropping to some extent. It is hard to ensure that all signals that can be used for data transmission is blocked, but wifi and cellular network are likely the most common ones. In terms of cost vs. benefits, I think this countermeasure is justifiable.
 
 
