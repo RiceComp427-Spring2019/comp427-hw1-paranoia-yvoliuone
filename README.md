@@ -55,10 +55,10 @@ please cut-and-paste the text from that email here._
   - The privacy and safety of people whose information is on the documents
   - The reputation of this international law firm
 - Threats:
-  - Some people may try to get hold of the information on the documents for illegal or unethical purposes, potentially causing harm to the society 
-  - Other nations may want to know the details about certain political matters of this nation and use it against this nation
+  - Some people may try to get hold of the information on the documents for personal uses, which may be illegal or unethical and may potentially cause harm to the society. In this case, a person only need to have access to the document at some point of time and remember the rough content in his or her brain. 
+  - Some people may try to take sensitive information and sell it to other people or nations that want to know the details about certain sensitive matters. In this case, a person will need to have access to the document and prove its reliability, so that the buyer of the information can trust it. 
 - Countermeasures:
-  - If there is a physical storage room, we can design a system that only allow certain trusted individuals to enter the room, for example via access cards or passwords. There can be security inspection outside the room to make sure no recording devices are brought in and no documents are brought out.
+  - If there is a physical storage room, we can design a system that only allow certain trusted individuals to enter the room, for example via access cards or passwords. There can be security inspection outside the room to make sure no recording devices are brought in and no documents are brought out, so that no evidence of the documents can be obtained even if someone sneaks in to take a look.
     - cost: there is the design and implementation difficulties of building such a security system, and such a system will likely cost much money. In addition, it is hard to find trustworthy (and potentially armed) staff at the inspection place 24/7
     - benefit: can successfully reduce the probability of suspicious people entering the storage room and copying contents on the documents in the room
 
