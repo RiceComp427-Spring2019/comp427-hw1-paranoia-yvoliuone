@@ -38,10 +38,12 @@ please cut-and-paste the text from that email here._
   - Each person needs to go through one round of security check before boarding. All the baggages are inspected by machines and each person also has to go inside a machine to check for dangerous personal belongings.
     - cost: designing and building the appropriate machineries could be expensive and the implementation of it in the airport can be troublesome; hiring and training staff to assist in the process is also time-consuming
     - benefit: In general, most of the forbidden items can be detect by machines
+  
   In general, I think this countermeasure if rather effective, because once the appropriate machineries are set up, it is almost impossible to take forbidden items onboard a flight, whether intentionally or unintentionally. The corresponding cost of building and setting up the system is thus worthwhile.
   - To deal with infectious diseases, there can be a body temperature check for all passengers as part of the inspection process. Additional health check should be performed for passengers who have just been to certain dangerous places or countries
     - cost: building appropriate machineries and setting it up in a space in the airport; hiring additional health professionals
     - Benefit: can detect passengers with abnormal body temperature and reduce the probability of people carrying infectious diseases from entering
+  
   This countermeasure is less effective than the previous one. Not all infectious diseases will cause abnormal body temperature, and the effectiveness of doing additional checks relies on the person being honest about the places he or she recently visited. It is difficult to define what kind of places are dangerous, so some people would not know that they should do a health check. However, this countermeasure does deal with infectious diseases to some extent, and the cost of it is understandable, so I think it is still a justifiable countermeasure.
 
 ## Problem 2
