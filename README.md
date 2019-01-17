@@ -47,18 +47,28 @@ please cut-and-paste the text from that email here._
   This countermeasure is less effective than the previous one. Not all infectious diseases will cause abnormal body temperature, and the effectiveness of doing additional checks relies on the person being honest about the places he or she recently visited. It is difficult to define what kind of places are dangerous, so some people would not know that they should do a health check. However, this countermeasure does deal with infectious diseases to some extent, and the cost of it is understandable, so I think it is still a justifiable countermeasure.
 
 ## Problem 2
-- Scenario: {Stadium|TSA|Documents|Grading|G20}
+- Scenario: Documents
 - Assumptions:
-  - explain_your_assumptions
+  - The information on some sensitive documents should not be exposed to the public or unrelated individuals
 - Assets:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - The confidentiality of the information on important documents
+  - The privacy and safety of people whose information is on the documents
+  - The reputation of this international law firm
 - Threats:
-  - explanatory_paragraph 
-  - explanatory_paragraph ...
+  - Some people may try to get hold of the information on the documents for illegal or unethical purposes, potentially causing harm to the society 
+  - Other nations may want to know the details about certain political matters of this nation and use it against this nation
 - Countermeasures:
-  - explanatory_paragraph
-  - explanatory_paragraph ...
+  - If there is a physical storage room, we can design a system that only allow certain trusted individuals to enter the room, for example via access cards or passwords. There can be security inspection outside the room to make sure no recording devices are brought in and no documents are brought out.
+    - cost: there is the design and implementation difficulties of building such a security system, and such a system will likely cost much money. In addition, it is hard to find trustworthy (and potentially armed) staff at the inspection place 24/7
+    - benefit: can successfully reduce the probability of suspicious people entering the storage room and copying contents on the documents in the room
+
+    Although the cost of building a system like this may be high, it can largely increase the difficulty of getting information from the storage room. Access cards may be stolen and passwords may be cracked, but the probability can be reduced by technical upgrades, for example using fingerprints. Overall, I think this countermeasure is justifiable.
+
+  - If the documents are stored digitally, it is probably better to keep the computer or hard disk completely offline or only connected to a local area network so that people on the other side of the internet do not even have the chance to attack. In addition, when transporting a document outside of the local area network, it may be better to use a usb hard drive offline to avoid potential attacks online.
+    - cost: loss of convenience if the whole system is offline, but I think the convenience level, though low, will be acceptable in case of a local area network. There is also the cost of building a local area network and making it secure against standard attacks
+    - Benefit: by reducing the use of the internet, we reduce the probability of exposing important documents online.
+    
+    It is still possible to make an attack outside a local area network, for example via a VPN, so the local area network needs to be able to handle those common attacks. In my opinion, the probability of information leaks may be lower offline, because online attackers have no chance of getting the information. Depending on the level of internet connection that is absolutely needed, this countermeasure (completely offline or local area network) may be justifiable.
 
 ## Problem 3
 - Scenario: Your choice (give a brief explanation)
