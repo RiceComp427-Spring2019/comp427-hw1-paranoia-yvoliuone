@@ -87,5 +87,10 @@ please cut-and-paste the text from that email here._
     - benefit: reduces the probability of audio data being successfully transmitted, and reduces the probability of recording meaningful conversations
     
     If we can ensure the safety and trustworthiness of the devices we use, the cost will mainly be monetary costs (unless we choose to build the devices on our own, which is time-consuming and involves hiring trustworthy professionals). There is no large-scale implementation or staffing issues, and it does reduce the probability of eavesdropping to some extent. It is hard to ensure that all signals that can be used for data transmission is blocked, but wifi and cellular network are likely the most common ones. In terms of cost vs. benefits, I think this countermeasure is justifiable.
+  - Clear the room before and after the meeting/conversation and do not place unnecessary furniture so that the chances of a listening device hiding is low. Inspect the room before and after the meeting for listening devices. If possible, inspect the two heads for listening devices attached to their clothes.
+    - cost: not much cost except human efforts
+    - benefit: reduces the chance of being eavesdropped, but only to a small extent
+    
+    This countermeasure does not cost much, for it is worth a try. There is still some chance that a listening device will stay undiscovered, but that chance will be lowered.
 
 
